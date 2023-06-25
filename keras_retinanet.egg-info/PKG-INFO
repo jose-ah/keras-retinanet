@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: keras-retinanet
+Version: 0.5.1
+Summary: Keras implementation of RetinaNet object detection.
+Home-page: https://github.com/fizyr/keras-retinanet
+Author: Hans Gaiser
+Author-email: h.gaiser@fizyr.com
+Maintainer: Hans Gaiser
+Maintainer-email: h.gaiser@fizyr.com
+License-File: LICENSE
